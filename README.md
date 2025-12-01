@@ -45,18 +45,11 @@ Este não é um simples scraper. É um sistema completo que:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsantoDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsantoDev&layout=compact&theme=dark"/>
-</div>
-
----
-
 ## 📫 Contato
 
 Estou aberto a oportunidades como **Estagiário** ou **Júnior** em Automação e IA.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/biodevsantos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/isantosdev/)
 [![Email](https://img.shields.io/badge/Email-Fale%20Comigo-red?style=for-the-badge&logo=gmail)](mailto:isantos.code@gmail.com)
+
+**Email direto:** isantos.code@gmail.com
