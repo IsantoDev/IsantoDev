@@ -1,4 +1,4 @@
-# Opá, eu sou o Igor Santos! 👋
+# Opa, eu sou o Igor Santos! 👋
 ### Engenheiro de Automação & IA (Em formação)
 
 Sou um desenvolvedor focado em **construir Agentes de IA** e **Pipelines de Automação** que resolvem problemas reais de negócio. Meu foco não é apenas escrever código, é eliminar ineficiências operacionais.
