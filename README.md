@@ -1,4 +1,4 @@
-### Olá, eu sou o Igor Santos! 👋
+### Opa, eu sou o Igor Santos! 👋
 **Estudante de Engenharia de Software | Engenheiro de IA Aplicada em Formação**
 
 Sou um desenvolvedor focado em construir **Agentes Autônomos**, **Pipelines de Automação** que resolvem problemas reais de negócio. Meu foco não é apenas escrever código, é entregar infraestrutura operacional.
