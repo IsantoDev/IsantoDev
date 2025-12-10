@@ -1,14 +1,7 @@
 ### Opa, eu sou o Igor Santos! 👋
-**Engenheiro de Automação e IA (Em Formação)**
+**Desenvolvedor Júnior**
 
-Sou um desenvolvedor focado em construir **Agentes Autônomos**, **Pipelines de Automação** que resolvem problemas reais de negócio. Meu foco não é apenas escrever código, é entregar infraestrutura operacional.
-
----
-
-### 🚀 O que eu faço
-* 🛡️ **Engenharia de IA:** Integração de LLM (Gemini, OpenAI) em fluxos de trabalho produtivos.
-* 🤖 **Automação (RPA):** Scripts Python para Web Scraping, manipulação de dados e automação de tarefas repetitivas.
-* 📊 **Engenharia de Dados:** Pipelines ETL para transformar dados brutos em inteligência acionável.
+Sou um desenvolvedor junior em transição focado em construir **Agentes Autônomos**, **Pipelines de Automação** que resolvem problemas reais de negócio. Meu foco não é apenas escrever código, é entregar infraestrutura operacional.
 
 ---
 
