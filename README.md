@@ -1,17 +1,26 @@
-<h1 align="center">Igor Santos</h1>
+<h1 align="center">Oi, eu sou o Igor Santos 👋</h1>
 
 <p align="center">
-  <strong>Dados · BI · Ciência de Dados</strong> · Goiânia, GO<br/>
+  <strong>Segurança da Informação — IAM · GRC · AppSec</strong> · Goiânia, GO<br/>
   <a href="https://linkedin.com/in/isantosdev">LinkedIn</a> ·
   <a href="mailto:isantos.code@gmail.com">isantos.code@gmail.com</a>
 </p>
 
-Profissional de dados com foco em transformar dados operacionais em decisões.
-Experiência com soluções em produção — BI, automação e ML aplicado à indústria.
+Implemento segurança no código, não só no conceito. Autenticação, controle de acesso e trilha de auditoria construídos do zero — com produtos em produção.
 
-- Cursando Sistemas de Informação (UniAlfa) + CST em Ciência de Dados (Gran Faculdade)
-- Experiência prática com ERP Protheus / TOTVS em ambiente de produção
-- Six Sigma Yellow Belt · LGPD · aberto a oportunidades remotas
+---
+
+## Sobre mim
+
+Profissional de Segurança da Informação em formação, com foco em Gestão de Identidades e Acessos (IAM) e base técnica real em Python e SQL.
+
+Meu diferencial é ter implementado segurança na mão: autenticação com PBKDF2 (600k iterações), JWT, bcrypt, rate limiting e trilha de auditoria em produtos próprios, aplicando o princípio do menor privilégio e tratando dados pessoais sob a ótica da LGPD.
+
+No dia a dia, atuo com triagem de chamados (ITSM) e investigação via SQL em tabelas de produção (ERP Protheus) — uma operação que já vive de controle de acesso e rastreabilidade.
+
+🔐 Trilha SC-900 (Microsoft) · Fundamentos Cisco · LGPD · OWASP Top 10 · Linux (WSL) · OverTheWire Bandit
+
+
 
 ---
 
@@ -38,11 +47,11 @@ Star schema · DAX para SLA, backlog e TMR · SQL em produção no ERP Protheus.
 ## Projetos open source
 
 **[AI-Radar ETL](https://github.com/IsantoDev/radar-etl)**
-Pipeline autônomo que monitora o mercado de IA, resume com Gemini e envia relatório por e-mail.
+Pipeline autônomo em Python com integração a APIs externas e envio de e-mail — estudo de automação segura e superfície de ataque em integrações.
 `Python` `Google Gemini` `Schedule` `SMTP`
 
 **[Job Hunter AI](https://github.com/IsantoDev/JobHunter)** · [demo](https://jobhunteria.streamlit.app/)
-App que compara currículos com descrições de vagas usando GenAI.
+App GenAI que processa PDFs de entrada não confiável — cenário de validação de input, casos de borda e tratamento seguro de dados.
 `Python` `Streamlit` `Google Gemini`
 
 ---
@@ -52,3 +61,4 @@ App que compara currículos com descrições de vagas usando GenAI.
 `Python` `pandas` `scikit-learn` `Power BI` `DAX` `SQL` `PostgreSQL` `FastAPI`
 
 Em estudo: `dbt` `BigQuery` `estatística aplicada` `séries temporais`
+</strong>
