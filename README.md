@@ -1,64 +1,42 @@
-<h1 align="center">Oi, eu sou o Igor Santos 👋</h1>
+# Olá, sou o Igor Santos! 👋
 
-<p align="center">
-  <strong>Segurança da Informação — IAM · GRC · AppSec</strong> · Goiânia, GO<br/>
-  <a href="https://linkedin.com/in/isantosdev">LinkedIn</a> ·
-  <a href="mailto:isantos.code@gmail.com">isantos.code@gmail.com</a>
-</p>
+**Analista de Dados | Ciência de Dados (Júnior)**
 
-Implemento segurança no código, não só no conceito. Autenticação, controle de acesso e trilha de auditoria construídos do zero — com produtos em produção.
+Profissional focado na resolução de problemas com dados, automação de relatórios e desenvolvimento de modelos analíticos. Tenho experiência com construção de dashboards no Power BI, integração de APIs REST, modelagem dimensional (Star Schema), consultas SQL avançadas e prototipagem ágil com Python e IA Generativa.
 
 ---
 
-## Sobre mim
+### 🛠️ Competências & Tecnologias
 
-Profissional de Segurança da Informação em formação, com foco em Gestão de Identidades e Acessos (IAM) e base técnica real em Python e SQL.
-
-Meu diferencial é ter implementado segurança na mão: autenticação com PBKDF2 (600k iterações), JWT, bcrypt, rate limiting e trilha de auditoria em produtos próprios, aplicando o princípio do menor privilégio e tratando dados pessoais sob a ótica da LGPD.
-
-No dia a dia, atuo com triagem de chamados (ITSM) e investigação via SQL em tabelas de produção (ERP Protheus) — uma operação que já vive de controle de acesso e rastreabilidade.
-
-🔐 Trilha SC-900 (Microsoft) · Fundamentos Cisco · LGPD · OWASP Top 10 · Linux (WSL) · OverTheWire Bandit
-
-
+- **Análise de Dados & BI:** Power BI, Power Query, DAX dinâmico, Modelagem Dimensional (Star Schema), Levantamento de KPIs (SLA, TMA, Backlog).
+- **Linguagens & Bancos de Dados:** Python (Pandas, scikit-learn, FastAPI, Streamlit), SQL (SQL Server, PostgreSQL, SQLite).
+- **Engenharia de Dados & IA:** Ingestão de APIs REST, ETL/ELT, Arquitetura Medallion, Engenharia de Prompt / LLMs (Google Gemini API), RAG.
+- **Ferramentas:** Git, GitHub, VS Code.
 
 ---
 
-## Ciência de dados
+### 🚀 Projetos em Destaque
 
-**[Soft Sensor Industrial — séries temporais](https://github.com/IsantoDev/soft-sensor-pureza)**
-Modelo de ML que estima a pureza de produto em coluna de destilação em tempo real,
-substituindo análise de laboratório cara e lenta. Pipeline completo com EDA,
-tratamento de faltantes, engenharia de features temporais e modelagem.
-R² 0.917 · `Python` `pandas` `scikit-learn` `seaborn`
+- 📊 **[Central de Tickets em Produção]* | *Power BI & API REST*  
+  Dashboard analítico integrado via API ao sistema de suporte, com atualização automática a cada 30 min, tratamento em Power Query (Star Schema) e métricas dinâmicas em DAX.
 
----
+- 🤖 **[Soft Sensor de Pureza](https://github.com/IsantoDev/soft-sensor-pureza)** | *Python & Machine Learning*  
+  Modelo de Machine Learning para estimar em tempo real a pureza em processos industriais a partir de séries temporais e janelas móveis com `scikit-learn`.
 
-## BI em produção
-
-**Central de Tickets — Duofy**
-Dashboard de BI conectado via API à plataforma TOTVS com atualização automática
-a cada 30 minutos, usado pela liderança da equipe.
-Star schema · DAX para SLA, backlog e TMR · SQL em produção no ERP Protheus.
-`Power BI` `DAX` `Power Query` `SQL Server`
+- 💡 **[Job Hunter AI & AI-Radar](https://github.com/IsantoDev/JobHunter)** | *GenAI, LLM & Streamlit*  
+  Aplicações que usam LLMs (Google Gemini) e RAG para análise de compatibilidade de vagas de emprego e curadoria autônoma de relatórios por e-mail.
 
 ---
 
-## Projetos open source
+### 🎓 Formação Acadêmica & Certificações
 
-**[AI-Radar ETL](https://github.com/IsantoDev/radar-etl)**
-Pipeline autônomo em Python com integração a APIs externas e envio de e-mail — estudo de automação segura e superfície de ataque em integrações.
-`Python` `Google Gemini` `Schedule` `SMTP`
-
-**[Job Hunter AI](https://github.com/IsantoDev/JobHunter)** · [demo](https://jobhunteria.streamlit.app/)
-App GenAI que processa PDFs de entrada não confiável — cenário de validação de input, casos de borda e tratamento seguro de dados.
-`Python` `Streamlit` `Google Gemini`
+- **CST em Ciência de Dados** — Gran Faculdade *(Prev. Out/2027)*
+- **Bacharelado em Sistemas de Informação** — UniAlfa *(Prev. Nov/2029)*
+- **Certificações:** Machine Learning (AWS), Introduction to Generative AI (Google Cloud), Big Data & BI (FIAP), SQL Avançado & APIs (DataCamp).
 
 ---
 
-## Stack
+### 📬 Conecte-se comigo
 
-`Python` `pandas` `scikit-learn` `Power BI` `DAX` `SQL` `PostgreSQL` `FastAPI`
-
-Em estudo: `dbt` `BigQuery` `estatística aplicada` `séries temporais`
-</strong>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isantosdev)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isantos.code@gmail.com)
