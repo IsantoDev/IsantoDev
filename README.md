@@ -1,42 +1,22 @@
-# Olá, sou o Igor Santos! 👋
+# Olá, sou o Igor Ribeiro 👋
 
-**Analista de Dados | Ciência de Dados (Júnior)**
-
-Profissional focado na resolução de problemas com dados, automação de relatórios e desenvolvimento de modelos analíticos. Tenho experiência com construção de dashboards no Power BI, integração de APIs REST, modelagem dimensional (Star Schema), consultas SQL avançadas e prototipagem ágil com Python e IA Generativa.
+Atuo com **Análise de Dados**, **Automação de Processos** e **IA Aplicada (LLMs)**. Uno engenharia de dados, modelagem analítica (SQL/Power BI) e scripts em Python para transformar dados brutos em decisões e rotinas automáticas.
 
 ---
 
-### 🛠️ Competências & Tecnologias
-
-- **Análise de Dados & BI:** Power BI, Power Query, DAX dinâmico, Modelagem Dimensional (Star Schema), Levantamento de KPIs (SLA, TMA, Backlog).
-- **Linguagens & Bancos de Dados:** Python (Pandas, scikit-learn, FastAPI, Streamlit), SQL (SQL Server, PostgreSQL, SQLite).
-- **Engenharia de Dados & IA:** Ingestão de APIs REST, ETL/ELT, Arquitetura Medallion, Engenharia de Prompt / LLMs (Google Gemini API), RAG.
-- **Ferramentas:** Git, GitHub, VS Code.
+### 🛠️ Tech Stack & Ferramentas
+- **Dados & Análise:** SQL (SQL Server/ERP Protheus, PostgreSQL, SQLite), Power BI (DAX, Star Schema), Pandas, Scikit-Learn
+- **Automação & Dev:** Python (Requests, FastAPI, Streamlit), APIs REST, Webhooks, Agendamento (Schedule), n8n
+- **IA & LLMs:** Google Gemini API, Engenharia de Prompt, Saída Estruturada (JSON), Fundamentos de RAG
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-- 📊 **[Central de Tickets em Produção]* | *Power BI & API REST*  
-  Dashboard analítico integrado via API ao sistema de suporte, com atualização automática a cada 30 min, tratamento em Power Query (Star Schema) e métricas dinâmicas em DAX.
-
-- 🤖 **[Soft Sensor de Pureza](https://github.com/IsantoDev/soft-sensor-pureza)** | *Python & Machine Learning*  
-  Modelo de Machine Learning para estimar em tempo real a pureza em processos industriais a partir de séries temporais e janelas móveis com `scikit-learn`.
-
-- 💡 **[Job Hunter AI & AI-Radar](https://github.com/IsantoDev/JobHunter)** | *GenAI, LLM & Streamlit*  
-  Aplicações que usam LLMs (Google Gemini) e RAG para análise de compatibilidade de vagas de emprego e curadoria autônoma de relatórios por e-mail.
+- 📊 **[Soft Sensor Industrial](https://github.com/IsantoDev/soft-sensor-pureza):** Análise de dados e séries temporais com Python, Pandas e Scikit-Learn para estimação preditiva em processos.
+- 🤖 **[AI-Radar ETL](https://github.com/IsantoDev/radar-etl):** Pipeline autônomo ETL de coleta web, sumarização executiva via Gemini API e entrega por e-mail.
+- 📄 **[Job Hunter AI](https://jobhunteria.streamlit.app):** Aplicação web de análise de aderência currículo x vaga usando GenAI e parsing de PDF.
 
 ---
 
-### 🎓 Formação Acadêmica & Certificações
-
-- **CST em Ciência de Dados** — Gran Faculdade *(Prev. Out/2027)*
-- **Bacharelado em Sistemas de Informação** — UniAlfa *(Prev. Nov/2029)*
-- **Certificações:** Machine Learning (AWS), Introduction to Generative AI (Google Cloud), Big Data & BI (FIAP), SQL Avançado & APIs (DataCamp).
-
----
-
-### 📬 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isantosdev)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isantos.code@gmail.com)
+📫 **Contato:** [LinkedIn](https://linkedin.com/in/isantosdev) | [E-mail](mailto:isantos.code@gmail.com)
