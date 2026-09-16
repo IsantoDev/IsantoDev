@@ -3,7 +3,7 @@
 **Dev Python & Analista de Dados** · Automação, IA Aplicada (LLMs) e SQL/BI
 
 Uno engenharia de dados, modelagem analítica (SQL/Power BI) e Python para transformar dados brutos em **decisões** e **rotinas automáticas**.
-🔍 Em evolução contínua rumo a **Dev Júnior** — construindo projetos na prática, módulo a módulo.
+🔍 Em evolução contínua — construindo projetos na prática, módulo a módulo.
 
 ---
 
