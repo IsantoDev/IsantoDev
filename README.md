@@ -19,7 +19,7 @@
 
 Cientista de dados, focado em **machine learning aplicado a problemas reais de negócio**. Domino o ciclo completo: da modelagem em **SQL** e análise estatística à construção e avaliação de **modelos preditivos**, sempre calibrando pela métrica que importa para a operação — não só pela acurácia.
 
-- 🔭 **Projeto flagship:** [`industria-preditiva`](https://github.com/IsantoDev/industria-preditiva) — manutenção preditiva industrial com *threshold* calibrado por custo de falha vs. alarme falso.
+- 🔭 **Projeto flagship:** [`industria-preditiva`](https://github.com/IsantoDev/industria-preditiva) — manutenção preditiva industrial [Em construção]
 - 🌱 **Estudando agora:** certificação **AWS Certified AI Practitioner (AIF-C01)** e MLOps.
 
 
