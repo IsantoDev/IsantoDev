@@ -1,27 +1,8 @@
-<h1 align="center">Olá, sou o Igor Ribeiro 👋</h1>
+<h1 align="center">Sou o Igor Ribeiro </h1>
 
 <p align="center">
   <b>Cientista de Dados & Machine Learning</b> · Python · SQL/BI · IA Aplicada (LLMs)
 </p>
-
-<p align="center">
-  Construo modelos que viram <b>decisão</b> — do dado bruto ao modelo calibrado por impacto de negócio.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/isantosdev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:isantos.code@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
-</p>
-
----
-
-### 👨‍💻 Sobre
-
-Cientista de dados, focado em **machine learning aplicado a problemas reais de negócio**. Domino o ciclo completo: da modelagem em **SQL** e análise estatística à construção e avaliação de **modelos preditivos**, sempre calibrando pela métrica que importa para a operação — não só pela acurácia.
-
-- 🔭 **Projeto flagship:** [`industria-preditiva`](https://github.com/IsantoDev/industria-preditiva) — manutenção preditiva industrial [Em construção]
-- 🌱 **Estudando agora:** certificação **AWS Certified AI Practitioner (AIF-C01)** e MLOps.
-
 
 ---
 
