@@ -10,9 +10,11 @@
 
 **Ciência de Dados & ML:** Python · pandas · NumPy · scikit-learn · SciPy · Matplotlib · Jupyter
 
-**Dados & BI:** SQL Server · PostgreSQL · SQLite · Excel · Power BI (DAX, Star Schema)
+**Dados & BI:** SQL Server · PostgreSQL · pgvector · SQLite · Excel · Power BI (DAX, Star Schema)
 
-**Automação, Dev & IA:** FastAPI · Streamlit · Docker · pytest · Google Gemini · RAG · Git
+**IA & LLMs:** RAG · busca híbrida (vetor + BM25) · embeddings · LLMs locais (Ollama) · Google Gemini
+
+**Automação & Dev:** FastAPI · Streamlit · Docker / Compose · pytest · uv · Git
 
 ---
 
@@ -20,6 +22,7 @@
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
+| 🔗 **[elo-copiloto-suporte](https://github.com/IsantoDev/elo-copiloto-suporte)** | Copiloto para suporte de ERP sobre chamados reais: pipeline de dados, triagem por kNN com risco de SLA (AUC 0,84), rascunhos de resposta e RAG com fontes, tudo com LLM local. | Python · PostgreSQL · pgvector · FastAPI · Ollama · RAG |
 | 🏭 **[industria-preditiva](https://github.com/IsantoDev/industria-preditiva)** | Manutenção preditiva: prevê falha de máquina por sensores (AI4I 2020). Pipeline completo com *threshold* calibrado por custo. | Python · SQL · scikit-learn · pandas |
 | 📊 **[soft-sensor-pureza](https://github.com/IsantoDev/soft-sensor-pureza)** | Soft sensor industrial: estima pureza de produto via séries temporais e regressão. | Python · scikit-learn · time-series |
 | 🤖 **[radar-etl](https://github.com/IsantoDev/radar-etl)** | Pipeline ETL autônomo: coleta notícias tech, resume com Gemini e entrega por e-mail. | Python · ETL · Gemini · web scraping |
