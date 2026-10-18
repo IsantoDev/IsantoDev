@@ -1,8 +1,5 @@
 <h1 align="center">Sou o Igor Ribeiro </h1>
 
-<p align="center">
-  <b>Cientista de Dados & Machine Learning</b> · Python · SQL/BI · IA Aplicada (LLMs)
-</p>
 
 ---
 
