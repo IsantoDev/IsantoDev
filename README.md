@@ -1,27 +1,37 @@
-<h1 align="center">Sou o Igor Ribeiro </h1>
-
-
----
-
-### 🛠️ Tech Stack
-
-**Ciência de Dados & ML:** Python · pandas · NumPy · scikit-learn · SciPy · Matplotlib · Jupyter
-
-**Dados & BI:** SQL Server · PostgreSQL · pgvector · SQLite · Excel · Power BI (DAX, Star Schema)
-
-**IA & LLMs:** RAG · busca híbrida (vetor + BM25) · embeddings · LLMs locais (Ollama) · Google Gemini
-
-**Automação & Dev:** FastAPI · Streamlit · Docker / Compose · pytest · uv · Git
+<h1 align="center">Igor Ribeiro</h1>
+<p align="center">Suporte N2 → Automação e Segurança da Informação · Goiânia/GO</p>
 
 ---
 
-### 🚀 Projetos em Destaque
+Resolvo problemas de operação construindo ferramentas. No suporte N2 de ERP (Protheus, PDV e fiscal), investigo incidentes com SQL em produção e automatizo o que se repete. Hoje estudo segurança da informação: concluí a trilha **Pre Security** da TryHackMe e me preparo para a **Microsoft SC-900**.
+
+### 🛠️ Stack
+
+**Automação & Integração:** Python · requests · APIs REST · FastAPI · ETL · rotinas agendadas · alertas (Teams, e-mail)
+
+**Infra & DevOps:** Linux (Ubuntu/WSL) · Docker / Compose · Git · GitHub Actions · pytest
+
+**Segurança:** controle de acesso por perfil (RBAC) · mascaramento de dados pessoais (LGPD) · trilha de auditoria · redes (TCP/IP, DNS, HTTP) · IAM
+
+**Dados:** SQL Server · PostgreSQL · pgvector · SQLite · pandas · Power BI (DAX, Star Schema)
+
+**IA aplicada:** RAG · embeddings · LLMs locais (Ollama) · Google Gemini
+
+---
+
+### 🚀 Projetos em destaque
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
-| 🔗 **[elo-copiloto-suporte](https://github.com/IsantoDev/elo-copiloto-suporte)** | Copiloto para suporte de ERP sobre chamados reais: pipeline de dados, triagem por kNN com risco de SLA (AUC 0,84), rascunhos de resposta e RAG com fontes, tudo com LLM local. | Python · PostgreSQL · pgvector · FastAPI · Ollama · RAG |
-| 🏭 **[industria-preditiva](https://github.com/IsantoDev/industria-preditiva)** | Manutenção preditiva: prevê falha de máquina por sensores (AI4I 2020). Pipeline completo com *threshold* calibrado por custo. | Python · SQL · scikit-learn · pandas |
-| 📊 **[soft-sensor-pureza](https://github.com/IsantoDev/soft-sensor-pureza)** | Soft sensor industrial: estima pureza de produto via séries temporais e regressão. | Python · scikit-learn · time-series |
-| 🤖 **[radar-etl](https://github.com/IsantoDev/radar-etl)** | Pipeline ETL autônomo: coleta notícias tech, resume com Gemini e entrega por e-mail. | Python · ETL · Gemini · web scraping |
-| 📄 **[JobHunter](https://github.com/IsantoDev/JobHunter)** | Agente de carreira: mede aderência currículo × vaga com GenAI e parsing de PDF. | Python · Gemini · LLM · prompt eng. |
-| 🛰️ **[pipeline-sentinela](https://github.com/IsantoDev/pipeline-sentinela)** | Monitor de saúde de serviços: checa status/latência, classifica por SLA e alerta quedas. | Python · POO · pytest · Docker |
+| 🔗 **[elo-copiloto-suporte](https://github.com/IsantoDev/elo-copiloto-suporte)** | Copiloto para suporte de ERP sobre chamados reais. Coleta via API, triagem por similaridade com risco de SLA e RAG com fontes. Login com perfis, dados pessoais mascarados e LLM local: nenhum dado sai da máquina. | Python · PostgreSQL · pgvector · FastAPI · Ollama |
+| 🛰️ **[pipeline-sentinela](https://github.com/IsantoDev/pipeline-sentinela)** | Monitor de serviços e integrações: checa status e latência, calcula uptime, classifica por SLA e alerta no Teams com resumo do incidente por IA. | Python · SQLite · Docker · pytest · GitHub Actions |
+| 🤖 **[radar-etl](https://github.com/IsantoDev/radar-etl)** | Automação agendada: coleta notícias tech, resume com Gemini e entrega por e-mail. | Python · ETL · Gemini · SMTP |
+| 🏭 **[industria-preditiva](https://github.com/IsantoDev/industria-preditiva)** | Manutenção preditiva: prevê falha de máquina a partir de sensores (AI4I 2020). | Python · SQL · scikit-learn |
+| 📄 **[JobHunter](https://github.com/IsantoDev/JobHunter)** | Mede a aderência entre currículo e vaga com GenAI e leitura de PDF. | Python · Gemini |
+
+---
+
+### 📚 Estudando agora
+TryHackMe (Cyber Security 101) · Microsoft SC-900 · Linux e redes
+
+📫 [LinkedIn](https://www.linkedin.com/in/isantosdev)
