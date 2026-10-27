@@ -3,8 +3,7 @@
 
 ---
 
-Resolvo problemas de operação construindo ferramentas. No suporte N2 de ERP (Protheus, PDV e fiscal), investigo incidentes com SQL em produção e automatizo o que se repete. Hoje estudo segurança da informação: concluí a trilha **Pre Security** da TryHackMe e me preparo para a **Microsoft SC-900**.
-
+Resolvo problemas de operação construindo ferramentas. No suporte N2 de ERP (Protheus, PDV e fiscal), investigo incidentes com SQL em produção e automatizo o que se repete. Hoje estudo e me aperfeiçou em segurança da informação
 ### 🛠️ Stack
 
 **Automação & Integração:** Python · requests · APIs REST · FastAPI · ETL · rotinas agendadas · alertas (Teams, e-mail)
