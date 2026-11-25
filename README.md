@@ -1,34 +1,35 @@
 <h1 align="center">Igor Ribeiro</h1>
-<p align="center">Suporte N2 → Automação e Segurança da Informação · Goiânia/GO</p>
+<p align="center">Dados · Python · SQL · Power BI · ML e IA aplicada · Goiânia/GO</p>
 
 ---
 
-Resolvo problemas de operação construindo ferramentas. No suporte N2 de ERP (Protheus, PDV e fiscal), investigo incidentes com SQL em produção e automatizo o que se repete. Hoje estudo e me desenvolvo em conjunto: automação e segurança da informação
-### 🛠️ Stack
+Trabalho com dados de operação. No suporte N2 de ERP (Protheus, PDV e fiscal), investigo incidentes com SQL em produção e transformo o que se repete em pipeline, painel ou ferramenta. Meus projetos partem de problemas reais: chamados, SLA, sensores de máquina, serviços que caem.
 
-**Automação & Integração:** Python · requests · APIs REST · FastAPI · ETL · rotinas agendadas · alertas (Teams, e-mail)
+### 📊 Em produção no trabalho (repositório privado)
 
-**Infra & DevOps:** Linux (Ubuntu/WSL) · Docker / Compose · Git · GitHub Actions · pytest
+- **Central de SLA:** pipeline que consome a API do Movidesk, organiza os chamados em banco e alimenta um painel em Power BI de fila e SLA, acompanhado pela equipe no dia a dia.
 
-**Segurança:** controle de acesso por perfil (RBAC) · mascaramento de dados pessoais (LGPD) · trilha de auditoria · redes (TCP/IP, DNS, HTTP) · IAM
-
-**Dados:** SQL Server · PostgreSQL · pgvector · SQLite · pandas · Power BI (DAX, Star Schema)
-
-**IA aplicada:** RAG · embeddings · LLMs locais (Ollama) · Google Gemini
-
----
-
-### 🚀 Projetos em destaque
+### 🚀 Projetos públicos
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
-| 🔗 **[elo-copiloto-suporte](https://github.com/IsantoDev/elo-copiloto-suporte)** | Copiloto para suporte de ERP sobre chamados reais. Coleta via API, triagem por similaridade com risco de SLA e RAG com fontes. Login com perfis, dados pessoais mascarados e LLM local: nenhum dado sai da máquina. | Python · PostgreSQL · pgvector · FastAPI · Ollama |
-| 🛰️ **[pipeline-sentinela](https://github.com/IsantoDev/pipeline-sentinela)** | Monitor de serviços e integrações: checa status e latência, calcula uptime, classifica por SLA e alerta no Teams com resumo do incidente por IA. | Python · SQLite · Docker · pytest · GitHub Actions |
-| 🤖 **[radar-etl](https://github.com/IsantoDev/radar-etl)** | Automação agendada: coleta notícias tech, resume com Gemini e entrega por e-mail. | Python · ETL · Gemini · SMTP |
-| 🏭 **[industria-preditiva](https://github.com/IsantoDev/industria-preditiva)** | Manutenção preditiva: prevê falha de máquina a partir de sensores (AI4I 2020). | Python · SQL · scikit-learn |
-| 📄 **[JobHunter](https://github.com/IsantoDev/JobHunter)** | Mede a aderência entre currículo e vaga com GenAI e leitura de PDF. | Python · Gemini |
+| 🔗 **[elo-copiloto-suporte](https://github.com/IsantoDev/elo-copiloto-suporte)** | Pipeline de chamados (bruto → limpo → checagens de qualidade), análise do que leva um ticket a estourar o SLA, triagem por vizinhos com risco de SLA (AUC 0,84) e RAG com fontes em LLM local. Dados pessoais mascarados; nenhum dado sai da máquina. | Python · PostgreSQL · pgvector · FastAPI · Ollama |
+| 🏭 **[industria-preditiva](https://github.com/IsantoDev/industria-preditiva)** | Manutenção preditiva: prevê falha de máquina a partir de sensores (AI4I 2020). EDA, estatística, engenharia de atributos, modelo e API. | Python · SQL · pandas · scikit-learn |
+| 🛰️ **[pipeline-sentinela](https://github.com/IsantoDev/pipeline-sentinela)** | Monitor de serviços e integrações: status e latência, uptime, classificação por SLA e alerta no Teams. | Python · SQLite · Docker · pytest · GitHub Actions |
+| 🤖 **[radar-etl](https://github.com/IsantoDev/radar-etl)** | ETL agendado: coleta notícias tech, resume com LLM e entrega por e-mail. | Python · ETL · Gemini · SMTP |
+
+### 🛠️ Stack
+
+**Dados:** SQL Server · PostgreSQL · SQLite · pandas · Power BI (DAX, modelagem estrela) · ETL · checagens de qualidade
+
+**Análise e ML:** estatística e testes de hipótese · scikit-learn · métricas de classificação (AUC, precisão/recall)
+
+**IA aplicada:** RAG · embeddings · pgvector · LLMs locais (Ollama) · Gemini
+
+**Engenharia:** Python · APIs REST · FastAPI · Docker / Compose · Git · GitHub Actions · pytest · Linux
+
+**Boas práticas com dados:** mascaramento de dados pessoais (LGPD) · controle de acesso por perfil · trilha de auditoria
 
 ---
-
 
 📫 [LinkedIn](https://www.linkedin.com/in/isantosdev)
